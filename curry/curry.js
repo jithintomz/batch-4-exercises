@@ -1,6 +1,11 @@
+import { zip }  from "rxjs";
 
-function curry(...args) {
-  return args;
+function curry(func) {
+  argLength = func.length
+  return (...x) => {
+    const temp = func(x)
+    return
+  }
 }
 
 export {

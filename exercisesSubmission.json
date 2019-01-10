@@ -1,22 +1,22 @@
 {
-  "name": "Your name",
-  "email": "Your email",
-  "batch": "Batch Number",
+  "name": "Jithin Tom",
+  "email": "jithintom1@gmail.com",
+  "batch": "4",
   "exercises": {
     "square-numbers-array": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "savings-account": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "request-validator": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "memoize": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "curry": {
@@ -24,7 +24,7 @@
       "rating": null
     },
     "account-dataset": {
-      "completed": false,
+      "completed": true,
       "rating": null
     },
     "alternating-characters": {
