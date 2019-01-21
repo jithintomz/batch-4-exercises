@@ -9,3 +9,16 @@ describe('isIterable', () => {
     expect(isIterable(new Map())).toBe(true);
   });
 });
+
+
+describe('test' ,() =>{
+  test('hi',()=>{
+    
+  })
+})
+
+describe('test', () =>{
+  test('random name',() =>(){
+    expect(isIterable([1,2,3]).toBe(true))
+  })
+})
